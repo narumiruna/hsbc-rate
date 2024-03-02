@@ -1,5 +1,9 @@
 # hsbcrate
 
+```sh
+pip install hsbcrate
+```
+
 ```python
 from hsbcrate import Range
 from hsbcrate import RateRequest
